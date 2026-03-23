@@ -99,7 +99,7 @@ To change the card's accent colour, update the `border` value in `.business-card
 
 ```css
 .business-card {
-    border: 4px solid #f9f; /* ← change this */
+    border: 4px solid #6366f1; /* ← change this */
 }
 ```
 
