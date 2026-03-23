@@ -2,6 +2,8 @@
 
 **A clean, responsive digital business card built with pure HTML & CSS**
 
+🌐 **Live Demo:** [card.gulshankumar.com](https://card.gulshankumar.com)
+
 [![W3C Validation](https://img.shields.io/badge/W3C-HTML5%20Valid-brightgreen?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/)
 [![CSS Valid](https://img.shields.io/badge/W3C-CSS3%20Valid-blue?style=flat-square&logo=css3&logoColor=white)](https://jigsaw.w3.org/css-validator/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](LICENSE)
@@ -13,9 +15,10 @@
 
 ## Overview
 
-A minimal yet elegant digital business card built entirely with HTML5 and modern CSS3 — no frameworks, no JavaScript, no dependencies.
+A minimal digital business card built with HTML5 and CSS3.
 
-> **Goal:** Showcase frontend fundamentals — clean markup, CSS box model, responsive design, and visual polish — in one self-contained component.
+> 🎯 **Goal:** Showcase frontend fundamentals in one self-contained component.
+> 🧱 CSS box model, responsive design, and visual polish.
 
 ---
 
@@ -27,12 +30,11 @@ A minimal yet elegant digital business card built entirely with HTML5 and modern
 
 ## Features
 
-- **Zero dependencies** — Pure HTML & CSS, no build tools required
-- **W3C validated** — HTML5 and CSS3 pass official W3C validators
-- **Responsive** — Adapts gracefully to all viewport sizes
-- **Gravatar integration** — Dynamic avatar via Gravatar CDN
-- **Smooth hover states** — Subtle interactive feedback on links
-- **Mobile-friendly** — `viewport` meta and fluid sizing built in
+- ⚡ No frameworks, build tools, or JavaScript
+- ✅ Passes official W3C HTML5 & CSS3 validators
+- 📱 Fully responsive across all screen sizes
+- 🖼️ Gravatar integration for dynamic avatars
+- 🎨 Smooth hover states on interactive elements
 
 ---
 
@@ -50,7 +52,7 @@ business-card/
 
 ## Getting Started
 
-No installation or build step required.
+No installation or build step needed.
 
 ```bash
 git clone https://github.com/your-username/business-card.git
@@ -102,4 +104,4 @@ Released under the GNU Public License. Fork, modify, and adapt freely.
 
 ---
 
-Made with ❤️ and plain HTML & CSS — ⭐ Star if it helped!
+Made with ❤️ and plain HTML & CSS · ⭐ Star if it helped!
