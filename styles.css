@@ -1,0 +1,91 @@
+body {
+    background-color: #fff; 
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.business-card {
+    border-radius: 12px;
+    max-width: 300px;
+    width: 300px;
+    background-color: #ffffff;
+    border: 4px solid #6366f1;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 100px;
+    box-shadow: 0 8px 32px rgba(99, 102, 241, 0.18);
+}
+
+.profile-image {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #e0e7ff;
+}
+
+hr {
+    border-top: none;
+    border-bottom: 2px solid #e0e7ff;
+    margin: 12px 0;
+}
+
+.full-name {
+    font-weight: 600;
+    font-size: 22px;
+    color: #1e293b;
+}
+
+.designation {
+    color: #6366f1; 
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.company {
+    color: #64748b;
+    font-size: 13px;
+}
+
+p {
+    margin: 5px 0;
+    color: #334155;
+    font-size: 14px;
+}
+
+.portfolio-link {
+    color: #6366f1;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.portfolio-link:hover {
+    color: #4338ca;
+    text-decoration: underline;
+}
+
+.social-media > h2 {
+    font-size: 13px;
+    color: #94a3b8;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.social-media > a {
+    margin: 0 5px;
+    color: #64748b;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6366f1;
+    text-decoration: underline dotted #6366f1 1px;
+}
