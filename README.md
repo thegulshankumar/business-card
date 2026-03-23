@@ -12,7 +12,7 @@
 
 [![W3C Validation](https://img.shields.io/badge/W3C-HTML5%20Valid-brightgreen?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/)
 [![CSS Valid](https://img.shields.io/badge/W3C-CSS3%20Valid-blue?style=flat-square&logo=css3&logoColor=white)](https://jigsaw.w3.org/css-validator/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![No JavaScript](https://img.shields.io/badge/JavaScript-None%20Required-lightgrey?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -90,7 +90,7 @@ All personal details live inside `index.html`. Swap out what you need:
 | Designation | `.designation` `<p>` | `WordPress Plugin Developer` |
 | Company | `.company` `<p>` | `Forget Spam Comment` |
 | Email | `<p>` in card body | `admin@example.com` |
-| Phone | `<p>` in card body | `(+91) 0000-0000` |
+| Phone | `<p>` in card body | `(+91) 8XYZ-XY-8XYZ` |
 | Portfolio | `.portfolio-link` `<a>` | `http://example.com` |
 | Avatar | `<img src="">` | Gravatar URL or local path |
 | Social links | `.social-media` `<a>` tags | Twitter, LinkedIn, GitHub |
