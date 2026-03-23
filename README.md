@@ -128,7 +128,7 @@ This project passes both official W3C validators:
 
 ## 📄 License
 
-This project is open-source under the [MIT License](LICENSE). Feel free to fork it, adapt it, and make it your own.
+This project is released under the GNU Public License. You are welcome to fork, modify, and adapt it as needed.
 
 ---
 
